@@ -1,0 +1,2 @@
+# Hbase_EndPoint
+采用hbase的协处理器EndPoint来对学生分数进行求和
